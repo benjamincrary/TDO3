@@ -1,0 +1,10 @@
+name: BandwithShiny
+title: BandwithShiny
+account: bcrary
+server: shinyapps.io
+appId: 151904
+bundleId: 684946
+url: https://bcrary.shinyapps.io/BandwithShiny/
+when: 1484847785.2108
+asMultiple: FALSE
+asStatic: FALSE
